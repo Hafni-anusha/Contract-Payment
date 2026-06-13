@@ -1,0 +1,21 @@
+{
+ "app": "contract_payment",
+ "bg_color": "blue",
+ "creation": "2026-06-13 08:49:33.152212",
+ "docstatus": 0,
+ "doctype": "Desktop Icon",
+ "hidden": 0,
+ "icon_type": "Link",
+ "idx": 0,
+ "label": "Contract Payment",
+ "link_to": "Contract Payment",
+ "link_type": "Workspace Sidebar",
+ "modified": "2026-06-13 08:59:49.670536",
+ "modified_by": "Administrator",
+ "name": "Contract Payment",
+ "owner": "Administrator",
+ "restrict_removal": 0,
+ "roles": [],
+ "sidebar": "Contract Payment",
+ "standard": 1
+}
